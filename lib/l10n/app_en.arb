@@ -1,0 +1,17 @@
+{
+  "language" : "Language",
+  "english" : "English",
+  "arabic" : "Arabic",
+  "theme" : "Theme",
+  "lightMood" : "Light",
+  "darkMood" : "Dark",
+  "systemMood" : "System Mode",
+  "on" : "On",
+  "off" : "Off",
+  "addTask" : "Add Task",
+  "selectDate" : "Select Date",
+  "selectTime" : "Select Time",
+  "taskTitle" : "Task Title",
+  "taskDescription" : "Task Description",
+  "editTask" : "Edit Task"
+}

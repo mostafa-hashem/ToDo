@@ -1,0 +1,17 @@
+{
+  "language": "اللغة",
+  "english": "الانجليزية",
+  "arabic": "العربية",
+  "theme": "المظهر",
+  "lightMood": "فاتح",
+  "darkMood": "داكن",
+  "systemMood": "استخدام إعدادات النظام",
+  "on": "قيد التشغيل",
+  "off": "متوقف",
+  "addTask" : "إضافة مهمة",
+  "selectDate" : "إختار التاريخ",
+  "selectTime" : "إختار الوقت",
+  "taskTitle" : "إسم المهمة",
+  "taskDescription" : "محتوى المهمة",
+  "editTask" : "تعديل المهمة"
+}
